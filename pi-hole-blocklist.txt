@@ -951,6 +951,7 @@ eum-eu-west-1.instana.io
 eum.instana.io
 event.getblue.io
 events.tracdelight.io
+external.simpleanalytics.com
 fbc.wcfbc.net
 files.upscore.com
 fonts.mopinion.com
@@ -1211,6 +1212,9 @@ dntcl.qualaroo.com
 c.go-mpulse.net
 www.summerhamster.com
 visitor-service-eu-central-1.tealiumiq.com
+eu2.cdn.thunderhead.com
+eu2.thunderhead.com
+files-s3.thunderhead.com
 api-v2.trbo.com
 api.trbo.com
 collect.trbo.com
