@@ -117,6 +117,7 @@ cdn.digitru.st
 cdn.districtm.io
 cdn.elasticad.net
 cdn.emetriq.de
+cdn.exoticads.com
 cdn.f11-ads.com
 cdn.lqmcdn.com
 cdn.m-pathy.com
@@ -381,6 +382,7 @@ webedia-de.nuggad.net
 werbemittelhosting.com
 widget.spoods.io
 widgets.getsitecontrol.com
+widgets.stripst.com
 wlt-ads-purify-media.adspirit.info
 ws1.rqtrk.eu
 ws3.rqtrk.eu
@@ -651,6 +653,8 @@ pixel.adsafeprotected.com
 static.adsafeprotected.com
 vast.adsafeprotected.com
 sync-jp.im-apps.net
+i.jads.co
+poweredby.jads.co
 resources.xg4ken.com
 services.xg4ken.com
 c.ktxtr.com
