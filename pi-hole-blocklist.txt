@@ -548,6 +548,8 @@ t.channeladvisor.com
 tracking2.channeladvisor.com
 ads.creative-serving.com
 h.df-srv.de
+ads2.contentabc.com
+hw-cdn2.contentabc.com
 bh.contextweb.com
 tag.contextweb.com
 amazon-tam-match.dotomi.com
@@ -817,6 +819,10 @@ match.adsrvr.org
 partners.tremorhub.com
 eb2.3lift.com
 tlx.3lift.com
+cdn.tsyndicate.com
+lcdn.tsyndicate.com
+pxl.tsyndicate.com
+tsyndicate.com
 rtd.tubemogul.com
 ads.undertone.com
 stats3.unrulymedia.com
@@ -900,9 +906,11 @@ business4.customer.gatrixx.com
 c.contentsquare.net
 c.iqcontentplatform.de
 c.leadlab.click
+c.smartclick.net
 c.spiegel.de
 c.statcounter.com
 c.tmyzer.com
+c1.smartclick.net
 canonicalizer.ucsuri.tcs
 cdn.adtriba.com
 cdn.amplitude.com
