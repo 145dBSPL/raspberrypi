@@ -885,6 +885,7 @@ analytics-udg.netdna-ssl.com
 analytics.foresee.com
 analytics.mailmunch.co
 analytics.meine-krankenkasse.de
+analytics.publitas.com
 analytics.tiktok.com
 analytics.wywy.com
 analyze.wywy.com
@@ -1391,6 +1392,7 @@ go.abtasty.com
 ids.ad.gt
 match.zorosrv.com
 nugmw.userreport.com
+o23229.ingest.sentry.io
 ping.ablida.net
 pixeltrack.eyeviewads.com
 pub.headerlift.com
