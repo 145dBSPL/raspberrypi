@@ -337,7 +337,6 @@ static.zanox.com
 stats.sxp.smartclip.net
 sync.adtelligent.com
 sync.ligadx.com
-synchrobox.adswizz.com
 t-uimserv-net.ha-cdn.de
 t.mplxtms.com
 t.nativendo.de
@@ -472,6 +471,9 @@ ih.adscale.de
 js.adscale.de
 trx.adscale.de
 factoreleven.adspirit.de
+delivery-cdn-cf.adswizz.com
+synchrobox.adswizz.com
+synchroscript.deliveryengine.adswizz.com
 adserver.adtech.de
 adserver.adtechus.com
 aka-cdn-ns.adtech.de
@@ -524,9 +526,12 @@ www.avantlink.com
 ads.avocet.io
 www.awin1.com
 www.dwin1.com
+cnv.event.prod.bidr.io
+segment.prod.bidr.io
 rtb-use.mfadsrvr.com
 rtb.mfadsrvr.com
 bttrack.com
+cdn.bttrack.com
 tags.bkrtx.com
 tags.bluekai.com
 a1859.casalemedia.com
@@ -574,6 +579,7 @@ pm.w55c.net
 securetags.w55c.net
 d5p.de17a.com
 bs.serving-sys.com
+lm.serving-sys.com
 secure-ds.serving-sys.com
 dmg.digitaltarget.ru
 p.adsymptotic.com
@@ -610,6 +616,7 @@ gslbeacon.lijit.com
 pba.aws.lijit.com
 vap3ams1.lijit.com
 cdn.flashtalking.com
+d9.flashtalking.com
 servedby.flashtalking.com
 cc.adingo.jp
 ads.stickyadstv.com
@@ -670,6 +677,7 @@ contextual.media.net
 cs.media.net
 cslogger.media.net
 hblg.media.net
+hbx.media.net
 lg3.media.net
 prebid.media.net
 ad.atdmt.com
@@ -802,14 +810,13 @@ nr.taboola.com
 trc.taboola.com
 vidstat.taboola.com
 widget.perfectmarket.com
-pixel.tapad.com
-tapestry.tapad.com
 sync.teads.tv
 sync.technoratimedia.com
 data.adsrvr.org
 eur-ukp.adsrvr.org
 insight.adsrvr.org
 match.adsrvr.org
+amazon.partners.tremorhub.com
 partners.tremorhub.com
 eb2.3lift.com
 tlx.3lift.com
@@ -1156,6 +1163,7 @@ cf-cdn.adventori.com
 eu.adventori.com
 f17.adventori.com
 f21.adventori.com
+c.go-mpulse.net
 certify-js.alexametrics.com
 certify.alexametrics.com
 logs1241.xiti.com
@@ -1225,9 +1233,12 @@ bam.nr-data.net
 js-agent.newrelic.com
 pixel.onaudience.com
 u001.93.spylog.com
+cdn.optimizely.com
+cdn3.optimizely.com
+errors.client.optimizely.com
+logx.optimizely.com
 dnt.qualaroo.com
 dntcl.qualaroo.com
-c.go-mpulse.net
 www.summerhamster.com
 visitor-service-eu-central-1.tealiumiq.com
 eu2.cdn.thunderhead.com
@@ -1267,10 +1278,6 @@ fonts.googleapis.com
 lo.v.liveperson.net
 lptag.liveperson.net
 bat.bing.com
-cdn.optimizely.com
-cdn3.optimizely.com
-errors.client.optimizely.com
-logx.optimizely.com
 srv-2019-01-07-14.config.parsely.com
 srv-2019-01-07-14.pixel.parsely.com
 static.parsely.com
@@ -1370,6 +1377,10 @@ stats.g.doubleclick.net
 tpc.googlesyndication.com
 www.google-analytics.com
 www.googletagservices.com
+pixel.tapad.com
+tapestry.tapad.com
+assets.pixlee.com
+photos.pixlee.com
 e.dlx.addthis.com
 r.dlx.addthis.com
 x.dlx.addthis.com
