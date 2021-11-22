@@ -196,6 +196,7 @@ hal90009.redintelligence.net
 hb.adtelligent.com
 hello.lqm.io
 hotdogsandads.com
+hpawd.bestadload.com
 hr-adsys.de
 i.bongacash.com
 i.simpli.fi
@@ -644,6 +645,7 @@ eu2-ice.360yield.com
 hb.improvedigital.com
 ice.360yield.com
 match.360yield.com
+secure.insightexpressai.com
 dt.adsafeprotected.com
 fw.adsafeprotected.com
 pixel.adsafeprotected.com
@@ -902,7 +904,6 @@ analyze.wywy.com
 aorta.clickagy.com
 api.addefend.com
 api.brytes.de
-api.dmp.y-track.com
 api.fouanalytics.com
 api.kickfire.com
 api.optmnstr.com
@@ -1036,7 +1037,6 @@ player.spoods.io
 positions.upscore.com
 pp.lp4.io
 pre-gn.quimron.net
-prod-js.aws.y-track.com
 prod.perf-serving.com
 production-cdn.lift.acquia.com
 proxy-tracker.colpirio.com
@@ -1381,6 +1381,8 @@ pixel.tapad.com
 tapestry.tapad.com
 assets.pixlee.com
 photos.pixlee.com
+api.dmp.y-track.com
+prod-js.aws.y-track.com
 e.dlx.addthis.com
 r.dlx.addthis.com
 x.dlx.addthis.com
