@@ -111,7 +111,6 @@ cdn.bauernative.com
 cdn.broadstreetads.com
 cdn.c-i.as
 cdn.conative.de
-cdn.cxense.com
 cdn.digitru.st
 cdn.districtm.io
 cdn.elasticad.net
@@ -401,6 +400,7 @@ www.iias.eu
 www.lasagneandands.com
 www.maxonclick.com
 www.roosterfirework.com
+www.sparwelt.de
 www.theadex.com
 www.tisoomi-services.com
 www.welect.de
@@ -569,11 +569,12 @@ rtax.criteo.com
 sslwidget.criteo.com
 static.criteo.net
 tvex.criteotilt.com
+cdn.cxense.com
+cdn.cxense.com
+comcluster.cxense.com
 id.cxense.com
+p1cluster.cxense.com
 rscdn.cxense.com
-scdn.cxense.com
-scomcluster.cxense.com
-sp1cluster.cxense.com
 r.nexac.com
 cts.w55c.net
 pm.w55c.net
@@ -888,6 +889,7 @@ a.optnmstr.com
 aaa.artefact.com
 aaxdetect.com
 ad.eanalyzer.de
+adalliance.profiles.tagger.opecloud.com
 adblockanalytics.com
 addefend.com
 adtrack.adleadevent.com
@@ -902,6 +904,7 @@ analytics.tiktok.com
 analytics.wywy.com
 analyze.wywy.com
 aorta.clickagy.com
+api-esp.piano.io
 api.addefend.com
 api.brytes.de
 api.fouanalytics.com
@@ -1143,6 +1146,7 @@ www.stats4net.de
 www.websiteoutlook.com
 xing-share.com
 xl-trk.com
+
 pippio.com
 brandsafe.adlooxtracking.com
 assets.adobedtm.com
@@ -1271,6 +1275,7 @@ adservice.google.com
 adservice.google.com.ua
 adservice.google.de
 adservice.google.fr
+adservice.google.se
 ampcid.google.fr
 cse.google.de
 csi.gstatic.com
@@ -1396,7 +1401,6 @@ a.consensad.com
 a.hstrck.com
 a.sportradarserving.com
 aggregator.service.usercentrics.eu
-api-esp.piano.io
 api.usercentrics.eu
 api.yieldlove-ad-serving.net
 ariane.abtasty.com
@@ -1431,6 +1435,7 @@ trackquantx.adux.com
 try.abtasty.com
 visitanalytics.userreport.com
 whoami-web.prod.ps.axelspringer.de
+www.anrdoezrs.net
 www.rvty.net
 www.technical-service.net
 x01.aidata.io
