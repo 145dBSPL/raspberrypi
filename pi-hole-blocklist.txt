@@ -1237,7 +1237,7 @@ www.drift.com
 www.leanplum.com
 cdn.mouseflow.com
 einwilligungsspeicher.netid.de
-netid.de
+einwilligen.netid.de
 bam-cell.nr-data.net
 bam.nr-data.net
 js-agent.newrelic.com
@@ -1454,3 +1454,11 @@ try.abtasty.com
 visitanalytics.userreport.com
 whoami-web.prod.ps.axelspringer.de
 x01.aidata.io
+edioca.com
+ap-info.netid.de
+stats.popupmaker.com
+privacyportal.cookiepro.com
+privacy.auto-motor-und-sport.de
+cookie-cdn.cookiepro.com
+cdn.privacy-mgmt.com
+cdn.cookielaw.org
