@@ -413,6 +413,7 @@ x.bidswitch.net
 x.fidelity-media.com
 xpl.theadex.com
 yagiay.com
+za-ads.de
 zemantatwo.wpengine.com
 dp2.33across.com
 acuityplatform.com
@@ -897,6 +898,7 @@ ampcid.google.com
 analytics-production.hapyak.com
 analytics-udg.netdna-ssl.com
 analytics.foresee.com
+analytics.freespee.com
 analytics.mailmunch.co
 analytics.meine-krankenkasse.de
 analytics.publitas.com
@@ -973,6 +975,7 @@ deploy.mopinion.com
 detectadblock.com
 dmp.brand-display.com
 dsp.active-agent.com
+edioca.com
 eu-central-1-decisionapi.lift.acquia.com
 eu-services.babator.com
 eum-eu-west-1.instana.io
@@ -1027,7 +1030,6 @@ p.smarter-js.com
 p.solocpm.com
 p.univide.com
 p.vtracy.de
-partner.netid.de
 pde.lp4.io
 piwik.av-comparatives.org
 piwik.avm.de
@@ -1095,6 +1097,7 @@ static2.o9.de
 statistics.aldi-international.com
 stats.gotit.tm
 stats.hprofits.com
+stats.popupmaker.com
 stats.wp.com
 statse.webtrendslive.com
 sync.upravel.com
@@ -1236,8 +1239,10 @@ presence.api.drift.com
 www.drift.com
 www.leanplum.com
 cdn.mouseflow.com
-einwilligungsspeicher.netid.de
+ap-info.netid.de
 einwilligen.netid.de
+einwilligungsspeicher.netid.de
+partner.netid.de
 bam-cell.nr-data.net
 bam.nr-data.net
 js-agent.newrelic.com
@@ -1400,9 +1405,6 @@ photos.pixlee.com
 api.dmp.y-track.com
 prod-js.aws.y-track.com
 app-measurement.com
-app.adjust.com
-cdn-gl.imrworldwide.com
-config.ioam.de
 de-config-preproduction.sensic.net
 e.dlx.addthis.com
 r.dlx.addthis.com
@@ -1447,13 +1449,9 @@ tag.userreport.com
 tags.adsafety.net
 te.technical-service.net
 technical-service.net
-technical-service.net
 track.eyeviewads.com
 trackquantx.adux.com
 try.abtasty.com
 visitanalytics.userreport.com
 whoami-web.prod.ps.axelspringer.de
 x01.aidata.io
-edioca.com
-ap-info.netid.de
-stats.popupmaker.com
