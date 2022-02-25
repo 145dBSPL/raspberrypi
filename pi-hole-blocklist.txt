@@ -159,6 +159,7 @@ de.ads.justpremium.com
 de.chaturbate.com
 de.f11-ads.com
 de.f11-ads.net
+delivery.adrecover.com
 delivery.content-recommendation.net
 des.smartclip.net
 display.apester.com
@@ -508,6 +509,7 @@ ws-na.amazon-adsystem.com
 www.assoc-amazon.de
 z-eu.amazon-adsystem.com
 z-na.amazon-adsystem.com
+aax-eu-retail-direct.amazon-adsystem.com
 ad.turn.com
 d.turn.com
 presentation-ams1.turn.com
@@ -587,6 +589,7 @@ secure-ds.serving-sys.com
 dmg.digitaltarget.ru
 p.adsymptotic.com
 gu.dyntrk.com
+i.ebayimg.com
 rover.ebay.com
 rover.ebay.de
 collector.effectivemeasure.net
@@ -884,7 +887,6 @@ staticw2.yotpo.com
 a1.zanox.com
 b1sync.zemanta.com
 sync.extend.tv
-604499284307559.mateti.net
 a.dpmsrv.com
 a.optnmstr.com
 aaa.artefact.com
@@ -984,7 +986,6 @@ event.getblue.io
 events.tracdelight.io
 external.simpleanalytics.com
 fbc.wcfbc.net
-files.upscore.com
 fonts.mopinion.com
 front.optimonk.com
 g.tmyzer.com
@@ -996,7 +997,6 @@ gr.playbuzz.com
 gstatic.mopinion.com
 hades.srvtrck.com
 healte.de
-hit-pool.upscore.com
 i.srvtrck.com
 ibclick.stream
 id5-sync.com
@@ -1041,7 +1041,6 @@ pixel.welt.de
 pixel.wp.com
 pixel2.cheqzone.com
 player.spoods.io
-positions.upscore.com
 pp.lp4.io
 pre-gn.quimron.net
 prod.perf-serving.com
@@ -1111,6 +1110,7 @@ tag.clrstm.com
 tag.leadplace.fr
 tagger.opecloud.com
 tomtom.mopinion.com
+track.cj.akadns.net
 track.selfcampaign.com
 track.trdrs.de
 track2.selfcampaign.com
@@ -1266,6 +1266,10 @@ api.trbo.com
 collect.trbo.com
 static.trbo.com
 track2.trbo.com
+files.upscore.com
+hit-pool.upscore.com
+hl.upscore.com
+positions.upscore.com
 static.woopra.com
 www.woopra.com
 cms.analytics.yahoo.com
@@ -1424,14 +1428,18 @@ api.yieldlove-ad-serving.net
 ariane.abtasty.com
 audex.userreport.com
 brain.rvty.net
+c.ba-content.de
+cl.k5a.io
 cm.smadex.com
 cookielaw.emea.fcagroup.com
+d.ba-content.de
 d645e36d.ytwkco.com
 dcinfos-cache.abtasty.com
 dcinfos.abtasty.com
 go.abtasty.com
 ids.ad.gt
 match.zorosrv.com
+mitself.net
 nugmw.userreport.com
 o23229.ingest.sentry.io
 ping.ablida.net
