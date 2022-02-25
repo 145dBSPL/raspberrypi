@@ -589,7 +589,6 @@ secure-ds.serving-sys.com
 dmg.digitaltarget.ru
 p.adsymptotic.com
 gu.dyntrk.com
-i.ebayimg.com
 rover.ebay.com
 rover.ebay.de
 collector.effectivemeasure.net
@@ -1463,3 +1462,5 @@ try.abtasty.com
 visitanalytics.userreport.com
 whoami-web.prod.ps.axelspringer.de
 x01.aidata.io
+h6.online-metrix.net
+eu-aa.online-metrix.net
