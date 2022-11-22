@@ -1464,3 +1464,11 @@ whoami-web.prod.ps.axelspringer.de
 x01.aidata.io
 h6.online-metrix.net
 eu-aa.online-metrix.net
+twin-iq.kickfire.com
+intextlinks.idg.zone
+api.idg.zone
+relay-client-c04.iocnt.net
+relay-client-c05.iocnt.net
+exo.nel.measure.office.net
+analytics-renault.e-guide.renault.com
+region1.analytics.google.com
