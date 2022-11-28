@@ -1472,3 +1472,4 @@ relay-client-c05.iocnt.net
 exo.nel.measure.office.net
 analytics-renault.e-guide.renault.com
 region1.analytics.google.com
+region1.google-analytics.com
