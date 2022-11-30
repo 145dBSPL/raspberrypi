@@ -1473,3 +1473,7 @@ exo.nel.measure.office.net
 analytics-renault.e-guide.renault.com
 region1.analytics.google.com
 region1.google-analytics.com
+matomo.openstreetmap.org
+experience-eu.piano.io
+cdn-eu.piano.io
+c2-eu.piano.io
