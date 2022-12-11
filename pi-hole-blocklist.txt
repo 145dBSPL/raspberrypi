@@ -1477,3 +1477,9 @@ matomo.openstreetmap.org
 experience-eu.piano.io
 cdn-eu.piano.io
 c2-eu.piano.io
+matomo.openstreetmap.org
+tracker.affirm.com
+cr_stats.upscore.com
+tentacles.smartocto.com
+api.smartocto.com
+ingestion.smartocto.com
