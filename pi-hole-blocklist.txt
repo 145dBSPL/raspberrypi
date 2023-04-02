@@ -1484,3 +1484,5 @@ twin-iq.kickfire.com
 visitanalytics.userreport.com
 whoami-web.prod.ps.axelspringer.de
 x01.aidata.io
+analytics.transmatico.com
+trmads.eu
