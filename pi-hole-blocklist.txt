@@ -1486,3 +1486,6 @@ whoami-web.prod.ps.axelspringer.de
 x01.aidata.io
 analytics.transmatico.com
 trmads.eu
+m.stripe.com
+m.stripe.network
+js.stripe.com
