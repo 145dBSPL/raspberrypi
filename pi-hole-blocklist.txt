@@ -1489,3 +1489,6 @@ trmads.eu
 m.stripe.com
 m.stripe.network
 js.stripe.com
+forms.hubspot.com
+js.hs-analytics.net
+track.hubspot.com
