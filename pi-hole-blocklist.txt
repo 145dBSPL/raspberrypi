@@ -1493,3 +1493,4 @@ forms.hubspot.com
 js.hs-analytics.net
 track.hubspot.com
 www.googleoptimize.com
+intake-analytics.wikimedia.org
