@@ -1496,3 +1496,5 @@ www.googleoptimize.com
 intake-analytics.wikimedia.org
 stats.smartberatung.com
 api.cxense.com
+cdn.smartico.one
+d.smartico.one
