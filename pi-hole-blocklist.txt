@@ -1498,3 +1498,6 @@ stats.smartberatung.com
 api.cxense.com
 cdn.smartico.one
 d.smartico.one
+fast.smarketer.de
+fast-static.smarketer.de
+ssts.smarketer.de
