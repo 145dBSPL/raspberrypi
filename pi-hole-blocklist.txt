@@ -1501,3 +1501,4 @@ d.smartico.one
 fast.smarketer.de
 fast-static.smarketer.de
 ssts.smarketer.de
+trace-proxy.mam.dev
