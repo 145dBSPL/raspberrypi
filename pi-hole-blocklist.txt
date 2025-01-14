@@ -1506,3 +1506,5 @@ v2track.vlyby.com
 cdn.vlyby.com
 v2analytics.vlyby.com
 pixel.vlyby.com
+api.cmp.inmobi.com
+cmp.inmobi.com
