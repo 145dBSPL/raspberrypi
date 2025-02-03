@@ -1509,3 +1509,8 @@ pixel.vlyby.com
 api.cmp.inmobi.com
 cmp.inmobi.com
 redditstatic.com
+nhkwdpv.pa-cd.com
+d.smartico.one
+cdn1.smartico.one
+cdn.smartico.one
+api-esp-eu.piano.io
