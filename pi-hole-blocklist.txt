@@ -1514,3 +1514,8 @@ d.smartico.one
 cdn1.smartico.one
 cdn.smartico.one
 api-esp-eu.piano.io
+flint.defybrick.com
+rock.defybrick.com
+tcheck.outbrainimg.com
+widget-pixels.outbrain.com
+images.outbrainimg.com
