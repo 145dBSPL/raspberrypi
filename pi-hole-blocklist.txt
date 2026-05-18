@@ -1519,3 +1519,6 @@ tcheck.outbrainimg.com
 widget-pixels.outbrain.com
 images.outbrainimg.com
 tracking.eu.miui.com
+download.mediathekview.de
+stats.hamrick.com
+bt.fraud0.com
